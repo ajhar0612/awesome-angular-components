@@ -129,6 +129,8 @@
  - [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) - Angular 2 directive for Handsontable.
  - [ag-grid-angular](https://github.com/ceolter/ag-grid-angular) - Ag-Grid Angular 2 Component.
  - [ng2-smart-table](https://github.com/akveo/ng2-smart-table) - Angular 2 Smart Data Table component.
+ - [ng2-super-table](https://github.com/andyperlitch/ng2-super-table) - Table component with features like sorting, custom cell, filtering  and more.
+ - [vaadin-grid](https://github.com/vaadin/vaadin-grid/) - Build using polymer and be used easily in Angular 2 projects.
 
 ###### Tree
 
